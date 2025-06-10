@@ -71,6 +71,7 @@ li {
 .call-to-action {
   margin-top: 2rem;
   text-align: center;
+  background-color: white;
 }
 
 .call-to-action .btn {
