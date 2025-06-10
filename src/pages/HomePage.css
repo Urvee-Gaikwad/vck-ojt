@@ -82,11 +82,13 @@
 }
 
 .call-to-action .btn {
-  background-color: #007bff;
+  background-color: #28a745;
   color: white;
   padding: 0.7rem 1.2rem;
   display: inline-block;
   text-decoration: none;
   margin-top: 0.5rem;
   border-radius: 5px;
+  border-left: #28a745;
+
 }
