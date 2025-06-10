@@ -76,21 +76,17 @@
 
 .call-to-action {
   margin-top: 2rem;
-  padding: 1rem;
   background-color: #28a745;
+  padding: 0.5rem 1rem;
   border-radius: 6px;
   font-weight: bold;
-  color: white;
+  color: white;;
 }
 
 .call-to-action .btn {
   background-color: #28a745;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-weight: bold;
   color: white;
-  padding: 0.7rem 1.2rem;
-  display: inline-block;
-  text-decoration: none;
-  margin-top: 0.5rem;
-  border-radius: 5px;
-  
-
 }
