@@ -9,7 +9,7 @@ import AdmissionsPage from "./pages/AdmissionsPage";
 
 const App = () => {
   return (
-    <div id="root">
+    <>
       <Router>
         <Routes>
           <Route path="/homepage" element={<HomePage/>}/>
@@ -19,7 +19,7 @@ const App = () => {
           <Route path="/admissionspage" element={<AdmissionsPage/>}/>
         </Routes>
       </Router>
-    </div>
+    </>
   )
 }
 
