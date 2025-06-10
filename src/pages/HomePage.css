@@ -76,9 +76,11 @@
 
 .call-to-action {
   margin-top: 2rem;
-  background: #28a745;
   padding: 1rem;
-  border-left: 5px solid #28a745;
+  background-color: #28a745;
+  border-radius: 6px;
+  font-weight: bold;
+  color: white;
 }
 
 .call-to-action .btn {
@@ -89,6 +91,6 @@
   text-decoration: none;
   margin-top: 0.5rem;
   border-radius: 5px;
-  border-left: #28a745;
+  
 
 }
