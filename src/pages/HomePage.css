@@ -71,10 +71,9 @@ ul {
 }
 
 .call-to-action {
-  margin-top: 2rem;
+
   background-color: green;
-  padding: 1rem;
-  border-left: 5px solid #28a745;
+
 }
 
 .call-to-action .btn {
@@ -92,6 +91,6 @@ ul {
   text-align: center;
 }
 
-.btn {
+#btn {
   background-color: green;
 }

@@ -41,7 +41,7 @@ const HomePage = () => {
           learning experience and personal growth.</p>
         <div>
         <p id="pp">Ready to start your journey with us?</p>
-        <a href="/coursespage"> <button className="btn">Explore Courses</button></a>
+        <a href="/coursespage"> <button id="btn">Explore Courses</button></a>
         </div>
         <div>
             <Footer/>
