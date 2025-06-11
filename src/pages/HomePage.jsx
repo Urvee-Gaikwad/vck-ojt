@@ -42,7 +42,7 @@ const HomePage = () => {
           learning experience and personal growth.</p>
         <div>
         <p>Ready to start your journey with us?</p>
-        <Link className="btn" to="/coursespage">Explore Courses</Link>
+        <a href="/coursespage"> <button className="btn">Explore Courses</button></a>
         </div>
         <div>
             <Footer/>
