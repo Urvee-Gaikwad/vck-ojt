@@ -75,6 +75,10 @@ ul {
 
   background-color: green;
   border-radius: 5px;
+  padding: 0.7rem 1.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
 
 }
 
@@ -86,6 +90,7 @@ ul {
   text-decoration: none;
   margin-top: 0.5rem;
   border-radius: 5px;
+  align-items: center;
 }
 
 #pp {
@@ -97,7 +102,6 @@ ul {
   background-color: green;
   align-items: center;
   display: inline-block;
-  background-color: #28a745;
   color: white;
   padding: 0.7rem 1.5rem;
   border-radius: 6px;
