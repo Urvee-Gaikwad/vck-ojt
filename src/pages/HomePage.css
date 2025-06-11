@@ -58,8 +58,8 @@ ul {
 }
 
 .image-gallery {
-  height: 500px;
-  width: 200px;
+  height: 300px;
+  width: 500px;
 }
 
 .image-gallery img {
@@ -70,9 +70,10 @@ ul {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 1);
 }
 
-.call-to-action {
+#call-to-action {
 
   background-color: green;
+  border-radius: 5px;
 
 }
 
@@ -93,4 +94,6 @@ ul {
 
 #btn {
   background-color: green;
+  align-items: center;
+  border-radius: 5px;
 }
