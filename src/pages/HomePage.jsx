@@ -35,12 +35,12 @@ const HomePage = () => {
         </ul>
         <h2>Campus Life &amp; Facilities</h2>
         <div>
-          <img className="image-gallery" src="/Images/vck.jpeg"/> <img className="image-gallery" src="/Images/vckcampus.jpg"/>
+          <img className="image-gallery" src="/Images/vck.jpeg"/>       <img className="image-gallery" src="/Images/vckcampus.jpg"/>
         </div>
-        <p>Explore our vibrant campus and state-of-the-art facilities designed to enhance your
+        <p id="pp">Explore our vibrant campus and state-of-the-art facilities designed to enhance your
           learning experience and personal growth.</p>
         <div>
-        <p>Ready to start your journey with us?</p>
+        <p id="pp">Ready to start your journey with us?</p>
         <a href="/coursespage"> <button className="btn">Explore Courses</button></a>
         </div>
         <div>
