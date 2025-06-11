@@ -65,7 +65,8 @@ ul {
 }
 
 .image-gallery img {
-  width: 100%;
+  width: 500;
+  height: 300;
   max-width: 500px;
   border-radius: 8px;
 }
@@ -78,7 +79,7 @@ ul {
 }
 
 .call-to-action .btn {
-  background-color: #007bff;
+  background-color: #28a745;
   color: white;
   padding: 0.7rem 1.2rem;
   display: inline-block;
