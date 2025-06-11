@@ -92,6 +92,7 @@ ul {
   margin-top: 0.5rem;
   border-radius: 5px;
   align-items: center;
+  text-align: center;
 }
 
 #pp {
@@ -108,4 +109,5 @@ ul {
   border-radius: 6px;
   text-decoration: none;
   font-weight: bold;
+  text-align: center;
 }
